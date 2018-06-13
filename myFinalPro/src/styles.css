@@ -1,0 +1,49 @@
+.resize {
+    width: 300px;
+}
+
+ul{
+ list-style: square;
+}
+
+.blog-center1{
+	text-align: center;
+}
+
+.blog-center2{
+	text-align: center;
+}
+.Mywebsite-center{
+	text-align: center;
+}
+.parag1{
+	width: 70%;
+    float: right;
+
+}
+#parag2{
+	width: 30%;
+    float: left;
+}
+
+
+h3 {
+	text-align: center;
+}
+
+#Mywebsite-2{
+color: green;}
+
+.footer1{
+	width: 100%;
+}
+
+.resize2 {
+    width: 200px;
+    height: auto; 
+ }  
+
+#carouselExampleSlidesOnly{
+	width: 600px;
+
+ }
